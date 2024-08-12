@@ -1,0 +1,149 @@
+[
+  {
+    "dish_name": "Chicken Wings",
+    "description": "Crispy and spicy chicken wings.",
+    "price": "780",
+    "average_rating": 4.4
+  },
+  {
+    "dish_name": "Fresh Salad",
+    "description": "A healthy mix of fresh vegetables.",
+    "price": "140",
+    "average_rating": 4.7
+  },
+  {
+    "dish_name": "Hot & Sour Soup",
+    "description": "A flavorful soup with a spicy and sour taste.",
+    "price": "790",
+    "average_rating": 4.1
+  },
+  {
+    "dish_name": "Thai Soup",
+    "description": "A traditional Thai soup with rich flavors.",
+    "price": "730",
+    "average_rating": 3.2
+  },
+  {
+    "dish_name": "Chicken Yakhni",
+    "description": "A light chicken broth soup.",
+    "price": "490",
+    "average_rating": 2.7
+  },
+  {
+    "dish_name": "Chicken Steamed Roast",
+    "description": "Steamed chicken with a savory roast flavor.",
+    "price": "1090",
+    "average_rating": 2.9
+  },
+  {
+    "dish_name": "Special Manchurian",
+    "description": "A special Manchurian dish with rich flavors.",
+    "price": "980",
+    "average_rating": 3.0
+  },
+  {
+    "dish_name": "Special Prawn",
+    "description": "Prawns cooked to perfection with special spices.",
+    "price": "1190",
+    "average_rating": 3.8
+  },
+  {
+    "dish_name": "Chicken Jalfrazi",
+    "description": "A spicy chicken curry with vegetables.",
+    "price": "930",
+    "average_rating": 3.9
+  },
+  {
+    "dish_name": "Mutton White Handi",
+    "description": "A creamy mutton curry cooked in a handi.",
+    "price": "1780",
+    "average_rating": 4.1
+  },
+  {
+    "dish_name": "Chicken Handi",
+    "description": "Tender chicken cooked in a traditional handi.",
+    "price": "1780",
+    "average_rating": 4.6
+  },
+  {
+    "dish_name": "Mutton Karahi",
+    "description": "Spicy mutton curry cooked in a karahi.",
+    "price": "2480",
+    "average_rating": 4.7
+  },
+  {
+    "dish_name": "Fish Cracker",
+    "description": "Crispy fish crackers.",
+    "price": "290",
+    "average_rating": 5.0
+  },
+  {
+    "dish_name": "French Fries",
+    "description": "Crispy and golden French fries.",
+    "price": "290",
+    "average_rating": 4.2
+  },
+  {
+    "dish_name": "Russian Salad",
+    "description": "A creamy salad with mixed vegetables and fruits.",
+    "price": "430",
+    "average_rating": 3.9
+  },
+  {
+    "dish_name": "Chicken Corn Soup",
+    "description": "A hearty soup with chicken and corn.",
+    "price": "270",
+    "average_rating": 5.0
+  },
+  {
+    "dish_name": "Chicken Almond Soup",
+    "description": "A rich soup with chicken and almonds.",
+    "price": "870",
+    "average_rating": 4.2
+  },
+  {
+    "dish_name": "Prawn Corn Soup",
+    "description": "A flavorful soup with prawns and corn.",
+    "price": "880",
+    "average_rating": 4.5
+  },
+  {
+    "dish_name": "Mutton Leg Steamed Roast",
+    "description": "Steamed and roasted mutton leg.",
+    "price": "2590",
+    "average_rating": 3.8
+  },
+  {
+    "dish_name": "Quail Steamed Roast",
+    "description": "Steamed and roasted quail.",
+    "price": "180",
+    "average_rating": 4.8
+  },
+  {
+    "dish_name": "Chicken Ginger",
+    "description": "Chicken cooked with fresh ginger.",
+    "price": "930",
+    "average_rating": 5.0
+  },
+  {
+    "dish_name": "Mutton Kofta",
+    "description": "Spiced mutton meatballs in a rich sauce.",
+    "price": "690",
+    "average_rating": 3.3
+  },
+  {
+    "dish_name": "Mutton Handi",
+    "description": "Tender mutton cooked in a traditional handi.",
+    "price": "2400",
+    "average_rating": 3.6
+  },
+  {
+    "dish_name": "Chicken Handi Karahi",
+    "description": "Chicken cooked in both handi and karahi style.",
+    "price": "1090",
+    "average_rating": 1.9
+  },
+  {
+    "about_restaurant": "The Usmania Group of Companies, since its inception in 2006, has firmly established itself as a significant market player in the restaurant and amusement park industry in Pakistan and offers the finest standard in Full Service Dining, coupled with breathtaking locales and ambiance, premium-grade cuisine and World Class Service levels. The ethos at the heart of the business strives to provide high-quality dining and entertainment experiences to the Pakistani public and the words of the Founder & CEO, “Turning Moments into Lifelong Memories”. This vision allows The Monal to consistently provide the highest service standards and stand out as the benchmark in the industry. The Flagship Enterprise of the Group is the Monal Restaurant at Pir Sohawasince its launch in 2006, which has become the iconic identity of Islamabad. The restaurant, nestled in the Margalla Hills Savoring a meal atop the hill while gazing down at the cityscape is a breathtaking experience, that blends culinary"
+  }
+]

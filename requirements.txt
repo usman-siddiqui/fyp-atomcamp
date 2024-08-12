@@ -1,0 +1,5 @@
+openai==0.28.0
+sentence-transformers==3.0.1
+pinecone-client==5.0.1
+gradio==4.41.0
+mysql-connector==2.2.9
